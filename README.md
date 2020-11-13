@@ -1,8 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Developers.</h1>
 
 <p>Hii! I am a sophomore persuing B.Tech in Computer Science and Engineering from Harcourt Butler Technical University.</p>
-
-[![Khushi Gautam's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/khushishikhu)
+<a href="https://dev.to/khushishikhu">
+  <i class="fab fa-dev" title="khushishikhu's DEV Profile"></i>
+</a>
     
   
   
